@@ -1,5 +1,6 @@
+Research question :
 
-This is your group repository for your final project for COGS108. This repostory is private, including to other students in the class, but visible to all COGS108 instructors.
+Do American television shows (e.g. South Park, Futurama, etc) have an impact on the political climate in america? 
 
-We have uploaded your Project Proposal here, and will provide comments and feedback on it here, as an issue. In the meantime, you are welcome and encouraged to use this repository to get started working on your project. 
-
+Hypothesis :
+We hypothesize that there will be a positive correlation between the displayed political sentiments in television shows, and the political climate in America (i.e. positive political sentiments in the show towards a candidate improve public perception(measured by the change in poll results before and after the episode) of that candidate and vice versa.)
